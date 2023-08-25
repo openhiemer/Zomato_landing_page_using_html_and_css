@@ -9,7 +9,7 @@ Welcome to the Zomato Landing Page Redesign repository! This project is aimed at
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 
 ## Features
